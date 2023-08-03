@@ -26,7 +26,7 @@
  - 팀원3 : 정연재 - 기업 상세 페이지, 컨설팅 신청, 컨설팅 결제
 
 ## 📌 주요 기능
-#### 관리자 - <a href="[https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login](https://github.com/DongJae92/mealme/wiki))" >상세보기 - WIKI 이동</a>
+#### 관리자 - <a href="https://github.com/DongJae92/mealme/wiki" >상세보기 - WIKI 이동</a>
 - 관리자 메인 : 고객 관리(일반 회원, 기업 회원), 오늘의 할 일, 일별 매출 현황, 최근 7일, 30일 평균 및 합계
 - 회원 정보 : 기업 회원, 일반 회원 조회 및 관리
 - 상품 주문 : 주문 목록 조회, 수정 및 관리
